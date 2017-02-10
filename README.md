@@ -8,3 +8,25 @@ This Project allows you to generate PHP code of projects using simple user inter
 Visit the site to download free php codeigniter scripts and for customization
 
 URL: https://github.com/murugavelc/user-management/
+
+
+
+Features:
+
+    User registration
+    User Login
+    Login with email or username
+    Password reset
+    Avatar and logo upload
+    E-Mail verification for new users
+    Manage Users
+    Invite new user for registration
+    Restrict Public User Registration
+    Manage User Types
+    Manage permissions
+    Built using AdminLTE
+    Bootstrap Responsive Theme
+    Email Templates
+    Codeigniter HMVC
+    Installer Included
+
